@@ -88,7 +88,7 @@ Cross-sectional, single-time-point measurements preclude longitudinal modelling.
 No external validation cohort; results are internal benchmarks.
 ---
 Author
-Osasanwo Yetunde Oluwabusolami
+Ososanwo Yetunde Oluwabusolami
 Higher Diploma in Science in Data Analytics
 Dublin Business School
 Student ID: 20066065
